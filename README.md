@@ -19,6 +19,9 @@ Control MIDI piano chords in real-time using hand gestures- The webcam detects y
 
 ---
 
+> **Download the [official compiled release](https://github.com/Starscreen2/Air-Piano-exeVersion-/releases/tag/Official) from the Releases section on the right sidebar.**
+---
+
 ## 🚀 Getting Started
 
 ### 1. Python Requirements
